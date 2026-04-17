@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2251eda3-c98c-4977-87a7-b0d3f343c95e",
+  "export_job_id": "4abafb62-645a-4419-9153-e228c6c92806",
   "id_short": 444396,
-  "published_at": "2026-04-12T08:01:41Z",
+  "published_at": "2026-04-17T19:30:06Z",
   "repo_name": "all-restaurants-in-kirkland-washington-us-sample-444396",
   "sample_asset_name": "beamstation_444396_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/444396/beamstation_444396_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_records": 20,
-  "sample_sha256": "288bd2ad706e736280a631dfd1d9993eeb74ec91ba037cd97cd2ef0e3aec3a03",
-  "sample_size_bytes": 87071,
-  "total_records": 208
+  "sample_sha256": "d262276df7d74d5d4c80258e6fefdc07dc23aa63e024dc45b1d201268795dab8",
+  "sample_size_bytes": 84068,
+  "total_records": 206
 }
