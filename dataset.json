@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Kirkland, Washington. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Kirkland, Washington, US",
-  "export_job_id": "4abafb62-645a-4419-9153-e228c6c92806",
+  "export_job_id": "3b789b5a-72bb-480c-bc45-7f6f84ab4bfe",
   "github_org": "Beamstation-Datasets",
   "id_short": 444396,
   "location_name": "Kirkland",
   "location_type": "city",
   "repo_name": "all-restaurants-in-kirkland-washington-us-sample-444396",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/444396/beamstation_444396_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_pct": 9.71,
+  "sample_pct": 9.95,
   "sample_records": 20,
-  "sample_sha256": "d262276df7d74d5d4c80258e6fefdc07dc23aa63e024dc45b1d201268795dab8",
-  "sample_size_bytes": 84068,
-  "total_records": 206,
-  "updated_at": "2026-04-14T10:34:21.680733+00:00"
+  "sample_sha256": "091110a9c49d9257b06c29a2b0e55c7cc7d46cfb60d61db1cd376e1900864085",
+  "sample_size_bytes": 86819,
+  "total_records": 201,
+  "updated_at": "2026-04-21T10:55:29.599020+00:00"
 }
